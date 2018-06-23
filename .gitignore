@@ -21,3 +21,7 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/HelloOpen2/.settings
+/HelloOpen2/target
+/HelloOpen2/.project
+/HelloOpen2/.classpath
